@@ -1,0 +1,10 @@
+{
+  "version": "0.2.0",
+  "url": "https://raw.githubusercontent.com/proluct/jobbkollen-releases/main/mobile/bundles/0.2.0.zip",
+  "sha256": "c070a97e3ef61bd314d24f1f64a1bf36a5381d6f4ff0b17a2377d9e87c586636",
+  "minNative": 200,
+  "apk": {
+    "version": "0.2.0",
+    "url": "https://raw.githubusercontent.com/proluct/jobbkollen-releases/main/mobile/apk/Jobbkollen-0.2.0.apk"
+  }
+}
