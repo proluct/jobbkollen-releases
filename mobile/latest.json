@@ -1,7 +1,7 @@
 {
-  "version": "0.2.1",
-  "url": "https://raw.githubusercontent.com/proluct/jobbkollen-releases/main/mobile/bundles/0.2.1.zip",
-  "sha256": "dea606b52de91fbac7c8cbe2ed1f1820ac402d7f4384f320180c5cd081c7a345",
+  "version": "0.2.2",
+  "url": "https://raw.githubusercontent.com/proluct/jobbkollen-releases/main/mobile/bundles/0.2.2.zip",
+  "sha256": "41a7d708e87d6cf7d82d2889d5bbd200dbe35abd5cbe9256e87db1c8e4f6bb55",
   "minNative": 200,
   "apk": {
     "version": "0.2.0",
